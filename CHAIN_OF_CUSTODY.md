@@ -46,7 +46,7 @@ Author identity and supporting résumé (Phase 2) will be made available:
 
 ---  
 **Release Timestamp:**  
-[INSERT ARCHIVE.ORG TIMESTAMP URL HERE]  
-[INSERT DATE OF OPEN TIMESTAMP SUBMISSION]
+https://web.archive.org/web/20250330052901/https://github.com/abmarcus/collapse-resistant-unified-reality-model  
+March 30, 2025
 
 **Prepared and submitted by ABMThink**
