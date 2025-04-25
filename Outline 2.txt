@@ -1,0 +1,85 @@
+Outline 2
+Here’s a **high-level outline** of your theory as it currently stands, integrating Marcus Causation, localized simulation boundaries, and the separation of quantum and relativistic physics within a dual-layered reality architecture.
+
+---
+
+# **High-Level Overview: Unified Theory of Simulation-Constrained Cosmology**  
+*Combining thermodynamic cosmology, quantum locality, and relativistic objectivity*
+
+---
+
+## **I. Core Ontology: Two-Layer Reality Model**
+
+### A. **R₀ – Objective Reality**
+- Infinite, continuous, deterministic.
+- Contains all classical/relativistic physics.
+- Houses all cosmological-scale structures (galaxies, background radiation, etc.).
+- No quantum behavior present.
+- Real cosmological events occur here and are passively observed in R₁.
+
+### B. **R₁ – Localized Simulation Layer**
+- Spatially limited (e.g., solar system scale).
+- All **quantum phenomena** (indeterminacy, entanglement, collapse) occur here.
+- Rendered dynamically **only where needed** for observation by conscious organic observers.
+- Interacts with R₀ via **data pass-through**, not full simulation.
+- Designed system with arbitrarily programmable quantum behavior.
+
+---
+
+## **II. Marcus Causation – Universe Lifecycle Framework**
+
+### A. **Definitions**
+1. **The Causation** – The singular event that began our universe (first injection).
+2. **Causation** – Any injection event that activates a previously perfect-equilibrium universe.
+3. **Causations** – The collective of all such injection events across multiversal space.
+
+### B. **Stages of a Universe**
+1. **Proto-Universe** – Thermodynamic equilibrium; no time or causality.
+2. **Causation Event** – Injection of energy/matter from another bubble.
+3. **Emergence of Time** – Entropy gradient creates time and causality.
+4. **Chaotic Reordering** – Internal entropy-driven cycles begin.
+5. **Offloading** – Universe must shed excess via collision with another.
+6. **Restored Proto-State** – Returns to new equilibrium; new capacity defined.
+
+---
+
+## **III. Key Principles and Claims**
+
+### A. **Quantum Physics Is Simulation-Bound**
+- Quantum behavior exists *only* within R₁.
+- No entanglement, wavefunction behavior, or probabilistic collapse in R₀.
+- Any observable quantum laws are arbitrary and defined by simulation design.
+
+### B. **Relativity Exists in Objective Reality**
+- Cosmological events follow classical and relativistic mechanics.
+- Distant stars, galaxies, and background radiation are not simulated—just observed.
+- Simulation avoids infinite burden by only rendering quantum behavior locally.
+
+### C. **Boundary Definition**
+- R₁ has a **movable edge**, typically centered around observers (e.g., the solar system).
+- Boundary defines where quantum rendering occurs vs. where reality is passed through.
+- Collapse of quantum states occurs only within R₁.
+
+---
+
+## **IV. Design Goals and Advantages**
+
+- **Avoids infinite simulation problem** by limiting the quantum rendering zone.
+- Explains **apparent quantum behavior** without invoking true nonlocality.
+- **Divides physics** into domains that are internally consistent and free of paradox:
+  - Quantum mechanics = programmable illusion.
+  - Relativistic cosmology = stable, objective truth.
+- Supports a **multi-universe model** activated through thermodynamic causation events.
+
+---
+
+## **V. Pending Refinements**
+(Next steps in development)
+1. Mathematical boundary logic for R₁ zone.
+2. Formal entropy modeling across bubble collisions.
+3. Logical validation for entanglement interactions at R₁ edges.
+4. Testing hypotheses: can boundary artifacts be detected?
+
+---
+
+Let me know when you'd like to move forward with the formal modeling, simulations, or paper drafting phase. Ready when you are.
